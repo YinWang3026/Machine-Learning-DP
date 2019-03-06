@@ -4,26 +4,26 @@ There are many sign language users in America, however, the amount of population
 
 
 ### Detailed Milestone
-..* Checkpoint 1 2/7/19
-... Understand the SDK and perhaps initialize a demo program using the Dongle
-..* Checkpoint 2 2/14/19
-... Look into a software CNN for sign language recognition
-..* Checkpoint 3 2/21/19
-... Finish a python version for CNN
-..* Checkpoint 4 2/28/19
-... Complete the set up physically
-..* Checkpoint 5 3/7/19
-... Transfer CNN using the SDK to the setup
-..* Checkpoint 6 3/14/19
-... Test the set up
-..* Checkpoint 7 3/21/19
-... Debug
-..* Checkpoint 8 3/28/19
-... Write up
-..* Checkpoint 9 4/4/19
-... Prepare for presentation
-..* Checkpoint 10 4/11/19
-..* Checkpoint 11 4/18/19
+- Checkpoint 1 2/7/19
+	- Understand the SDK and perhaps initialize a demo program using the Dongle
+- Checkpoint 2 2/14/19
+	- Look into a software CNN for sign language recognition
+- Checkpoint 3 2/21/19
+	- Finish a python version for CNN
+- Checkpoint 4 2/28/19
+	- Complete the set up physically
+- Checkpoint 5 3/7/19
+	- Transfer CNN using the SDK to the setup
+- Checkpoint 6 3/14/19
+	- Test the set up
+- Checkpoint 7 3/21/19
+	- Debug
+- Checkpoint 8 3/28/19
+	- Write up
+- Checkpoint 9 4/4/19
+	- Prepare for presentation
+- Checkpoint 10 4/11/19
+- Checkpoint 11 4/18/19
 
 
 ### Additional Work
