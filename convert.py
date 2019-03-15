@@ -44,10 +44,13 @@ def trainImg():
                 for x in range(0,28):
                     dout.point((x,y),fill=int(int(row[y][x]) * 1))
             out = out.resize((224,224))
-            pathName = './testImg/'+str(label)
-            fileName = './testImg/'+str(label)+'/'+str(count)+'.jpeg'
+            pathName = './trainImg/'+str(label)
+            fileName = './trainImg/'+str(label)+'/'+str(count)+'.jpeg'
             if not os.path.exists(pathName):
                 os.makedirs(pathName)
             with open(fileName, 'w+') as output:
                 out.save(output)
             count = count + 1
+
+
+trainImg()
